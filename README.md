@@ -1,2 +1,6 @@
 # ekumbu-node
-ekumbu API client for Nodejs
+ekumbu API para Nodejs
+
+Instalação 
+
+npm install ekumbu
